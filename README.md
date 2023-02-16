@@ -11,12 +11,16 @@
 # Sumário :bookmark_tabs:
 
 ### Projeto do site Barbearia Alura :barber:
+<p>Todo conteúdo referênte ao desenvolvimento do site foi extraído da 
+<a href="https://www.alura.com.br/">Alura</a>.</p>
 
-#### :small_blue_diamond: Ferramentas de uso:
+### Ferramentas utilizada para desenvolvimento :hammer:
+
+###### :white_check_mark: VSCode
 
 ###### :white_check_mark: HTML5
 
 ###### :white_check_mark: CSS3
 
-###### :white_check_mark: VSCode
+
 
